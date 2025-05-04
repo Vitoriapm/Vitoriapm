@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Vitoriapm
 - 🌱 I’m currently learning Java, JavaScript, PHP, Relational Database and Dynamics 365
+- 💪 My goal is to practice every day!
